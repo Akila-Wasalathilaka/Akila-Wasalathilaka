@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **Machine learning/Mobile Development with Flutter**
 
 - 📫 How to reach me **akilawasalathilaka@outlook.com**
+  
+- 🔗 **Old Repository:** [https://github.com/akiyy-24](https://github.com/akiyy-24)   
 
 - ⚡ Fun fact **No Database, No Problem 🔥**
 
