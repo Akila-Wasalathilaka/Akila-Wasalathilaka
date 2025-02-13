@@ -33,7 +33,6 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=akila-wasalathilaka&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-    <img src="https://streak-stats.demolab.com/?user=akila-wasalathilaka" alt="GitHub Streak"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akila-wasalathilaka&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
 
