@@ -80,8 +80,6 @@ I'm a passionate developer who loves crafting **scalable, user-friendly, and inn
 
 - Master **Machine Learning** for intelligent apps.  
 - Contribute to **Open Source** projects.  
-- Launch a **Tech Blog** to share insights.  
-- Build and deploy **SaaS products**.
 
 ---
 
