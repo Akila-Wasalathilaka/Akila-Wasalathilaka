@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-92eb-4c80-9d51-b1baea23b2c9.gif" width="100" alt="broomstick"/>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" alt="working broomstick" />
       </td>
       <td align="left">
         <h3>🔍 Exploring <b>Flutter</b> in the Forbidden Forest of Mobile Development</h3>
