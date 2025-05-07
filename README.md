@@ -47,32 +47,6 @@
       <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" alt="data magic" />
     </td>
   </tr>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>AI Enchantments 🧠</h3>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <br>
-      <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%" alt="ai magic" />
-    </td>
-    <td valign="top" width="33%">
-      <h3>Backend Brews 🔮</h3>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <br>
-      <img src="https://user-images.githubusercontent.com/74038190/236304340-a15395a0-fee7-44bb-9235-c2ecabd1d67e.gif" width="100%" alt="backend magic" />
-    </td>
-    <td valign="top" width="33%">
-      <h3>DevOps Divination ☁️</h3>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-      <br>
-      <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c6991-7554-4235-b4da-420d80c8e0e3.gif" width="100%" alt="devops magic" />
-    </td>
-  </tr>
 </table>
 
 </div>
