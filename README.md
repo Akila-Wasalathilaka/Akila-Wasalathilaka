@@ -124,10 +124,6 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/akila-wasalathilaka/akila-wasalathilaka/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-</div>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
@@ -172,17 +168,11 @@
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Happiness%20can%20be%20found%20even%20in%20the%20darkest%20of%20code%2C%20if%20one%20only%20remembers%20to%20refactor&author=Akila%20Dumbledore" alt="Quote" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQwZnRqN3QxY3k0ZHFjbXp3dXFnN2tzcG9wdG16ZDdvZTV1b3hlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B35MPKQbYXcI/giphy.gif" width="400" alt="magic spell" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Happiness%20can%20be%20found%20even%20in%20the%20darkest%20of%20code%2C%20if%20one%20only%20remembers%20to%20refactor&author=" alt="Quote" />
 </div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" width="100" alt="Shooting Star" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" width="100" alt="Magic Wand" /> 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="100" alt="Crystal Ball" />
 </p>
 
 <div align="center">
