@@ -55,16 +55,7 @@
 ## 📜 MAGICAL PROJECTS 📜
 
 <div align="center">
-  <a href="https://github.com/Akila-Wasalathilaka/News-reporting-app.git">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Akila-Wasalathilaka&repo=News-reporting-app&theme=dark&icon_color=DAA520&title_color=DAA520&text_color=FFFFFF&bg_color=0D1117&border_color=DAA520&hide_border=false" />
-  </a>
-  <a href="https://github.com/Akila-Wasalathilaka/E-Commerce-App">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Akila-Wasalathilaka&repo=E-Commerce-App&theme=dark&icon_color=DAA520&title_color=DAA520&text_color=FFFFFF&bg_color=0D1117&border_color=DAA520&hide_border=false" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ Under Maintenance ⛑ 
 </div>
 
 ## ⚗️ CURRENT ADVENTURES ⚗️
