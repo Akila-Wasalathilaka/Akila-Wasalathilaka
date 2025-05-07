@@ -54,7 +54,6 @@ I'm a passionate developer who loves crafting **scalable, user-friendly, and inn
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=akila-wasalathilaka&show_icons=true&theme=dracula" alt="GitHub Stats" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akila-wasalathilaka&layout=compact&theme=dracula" alt="Top Languages" width="40%" />
 </p>
 
