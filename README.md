@@ -2,7 +2,7 @@
   
 # ⚡ AKILA WASALATHILAKA ⚡
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=DAA520&center=true&vCenter=true&random=false&width=600&lines=Mischief+Managed;I+solemnly+swear+I+am+up+to+coding;Coding+Extraordinaire;Digital+Alchemist)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&size=30&duration=3000&pause=1000&color=DAA520&center=true&vCenter=true&width=600&lines=Mischief+Managed;I+solemnly+swear+I+am+up+to+coding;Coding+Extraordinaire;Digital+Alchemist" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=akila-wasalathilaka&label=Visitors&color=DAA520&style=flat)](https://github.com/akila-wasalathilaka)
 
